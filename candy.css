@@ -1,5 +1,5 @@
 img {
-    width: 500px
+    width: 500px;
 }
 head {
     text-align:center;
@@ -13,6 +13,8 @@ div{
     background: rgb(162, 226, 226);
     color:rgb(221, 16, 16);
     border: solid 3px rgb(200, 8, 8);
+    margin-left:50px;
+    margin-right:50px;
 }
 body {
     text-align:center;
