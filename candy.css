@@ -1,6 +1,19 @@
 img {
     width: 500px
 }
+head {
+    text-align:center;
+    font-family: 'Times New Roman';
+    background: rgb(162, 226, 226);
+    color:rgb(7, 7, 102);
+}
+div{
+    border: solid
+    text-align:center;
+    font-family: 'Impact';
+    background: rgb(162, 226, 226);
+    color:rgb(221, 16, 16);
+}
 body {
     text-align:center;
     font-family: 'Times New Roman';
