@@ -10,12 +10,12 @@ head {
 }
 div{
     text-align:center;
-    font-family: 'Impact';
+    font-family: 'Chakra Petch';
     background: rgb(68, 51, 3);
     color:rgb(221, 16, 16);
     border: solid 3px rgb(200, 8, 8);
-    margin-left:600px;
-    margin-right:600px;
+    margin-left:250px;
+    margin-right:250px;
     margin-top:-25px;
     padding:5px;
 }
