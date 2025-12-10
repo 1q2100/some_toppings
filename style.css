@@ -1,6 +1,9 @@
 img {
     width: 500px;
 }
+a {
+    color:rgb(194, 174, 174);
+}
 head {
     text-align:center;
     font-family: 'Times New Roman';
