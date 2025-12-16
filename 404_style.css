@@ -4,16 +4,25 @@ img {
 a {
     color:rgb(63, 4, 4);
 }
+.kenia-regular {
+    font-family: "Kenia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
 head {
     text-align:center;
-    font-family: 'Times New Roman';
+    font-family: "Kenia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     background: rgb(94, 91, 85);
     color:rgb(7, 7, 102);
     margin:15px;
 }
 Body{
     text-align:center;
-    font-family: 'Times New Roman';
+    font-family: "Kenia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     background: rgb(94, 91, 85);
     color:rgb(7, 7, 102);
     margin:15px;

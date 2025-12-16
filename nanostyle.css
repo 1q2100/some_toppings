@@ -4,9 +4,16 @@ img {
 a {
     color:rgb(194, 174, 174);
 }
+.zen-tokyo-zoo-regular {
+    font-family: "Zen Tokyo Zoo", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
 head {
     text-align:center;
-    font-family: 'Times New Roman';
+    font-family: "Zen Tokyo Zoo", system-ui;
+    font-weight: 400;
+    font-style: normal;
     background: rgb(146, 57, 191);
     color:rgb(76, 53, 153);
     margin:15px;
@@ -27,7 +34,9 @@ div{
 }
 body {
     text-align:center;
-    font-family: 'Times New Roman';
+    font-family: "Zen Tokyo Zoo", system-ui;
+    font-weight: 400;
+    font-style: normal;
     font-size: 25px;
     background: rgb(146, 57, 191);
     color:rgb(76, 53, 153);

@@ -4,9 +4,17 @@ img {
 a {
     color:rgb(194, 174, 174);
 }
+.kranky-regular {
+    font-family: "Kranky", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 head {
     text-align:center;
-    font-family: 'Times New Roman';
+    font-family: "Kranky", serif;
+    font-weight: 400;
+    font-style: normal;
     background: rgb(8, 138, 193);
     color:rgb(7, 7, 102);
     margin:15px;
@@ -27,7 +35,9 @@ div{
 }
 body {
     text-align:center;
-    font-family: 'Times New Roman';
+    font-family: "Kranky", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 25px;
     background: rgb(8, 138, 193);
     color:rgb(98, 12, 155);
