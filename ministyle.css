@@ -1,0 +1,51 @@
+img {
+    width: 500px;
+}
+.knewave-regular {
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a {
+    
+    color:rgb(165, 11, 11);
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+head {
+    text-align:center;
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background: rgb(10, 134, 105);
+    color:rgb(7, 7, 102);
+    margin:15px;
+}
+Body{
+    text-align:center;
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background: rgb(10, 134, 105);
+    color:rgb(7, 7, 102);
+    margin:15px;
+    font-size: 30px;
+}
+div{
+    text-align:center;
+    font-family: 'Impact', sans-serif;
+    font-size: 20px;
+    font-weight: 850;
+    font-style: oblique;
+    background: rgb(18, 8, 200);
+    color:rgb(200, 8, 85);
+    border: solid 5px rgb(18, 8, 200);
+    margin-left:-30x;
+    margin-right:-14px;
+    margin-top:-15px;
+    margin-bottom:15px;
+    padding:5px;
+}
