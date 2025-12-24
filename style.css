@@ -42,3 +42,10 @@ body {
     color:rgb(34, 109, 59);
     margin:50px;
 }
+.anmated{
+    animation: wobble 3s ease-in-out infinite alternate
+}
+@keyframes wobble {
+    0%{transform:translate(-150 px)}
+    100%{transform:translate(150 px)}
+}

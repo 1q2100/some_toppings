@@ -6,7 +6,13 @@ img {
     font-weight: 400;
     font-style: normal;
 }
-
+.anmated{
+    animation: wobble 3s ease-in-out infinite alternate
+}
+@keyframes wobble {
+    0%{transform:translate(-150 px)}
+    100%{transform:translate(150 px)}
+}
 a {
     
     color:rgb(165, 11, 11);
