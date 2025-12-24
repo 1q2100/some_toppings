@@ -6,12 +6,12 @@ img {
     font-weight: 400;
     font-style: normal;
 }
-.anmated{
+.animated{
     animation: wobble 3s ease-in-out infinite alternate
 }
 @keyframes wobble {
-    0%{transform:translate(-150 px)}
-    100%{transform:translate(150 px)}
+    0%{transform:translateX(-150 px)}
+    100%{trabsform:translateX(150 px)}
 }
 a {
     
