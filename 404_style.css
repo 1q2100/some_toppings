@@ -1,7 +1,7 @@
 img {
     width: 500px;
 }
-.anmated{
+.anшmated{
     animation: wobble 3s ease-in-out infinite alternate
 }
 @keyframes wobble {
