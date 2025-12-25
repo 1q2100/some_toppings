@@ -1,17 +1,20 @@
 img {
     width: 500px;
 }
+
 .knewave-regular {
     font-family: "Knewave", system-ui;
     font-weight: 400;
     font-style: normal;
 }
-.animated{
-    animation: wobble 3s ease-in-out infinite alternate
+.potato{
+    width: 200px;
+    animation: movelikeacrab 3s ease-in-out infinite alternate;
 }
-@keyframes wobble {
-    0%{transform:translateX(-150 px)}
-    100%{trabsform:translateX(150 px)}
+@keyframes movelikeacrab {
+    0%{transform:translateX(-150px);}
+    50%{transform:translateX(150px);}
+    100%{transform:translateX(-150px);}
 }
 a {
     
