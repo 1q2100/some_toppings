@@ -42,12 +42,3 @@ body {
     color:rgb(76, 53, 153);
     margin:50px;
 }
-.potato{
-    width: 200px;
-    animation: movelikeacrab 3s ease-in-out infinite alternate;
-}
-@keyframes movelikeacrab {
-    0%{transform:translateX(-150px);}
-    50%{transform:translateX(150px);}
-    100%{transform:translateX(-150px);}
-}

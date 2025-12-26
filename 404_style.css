@@ -1,13 +1,6 @@
 img {
     width: 500px;
 }
-.anшmated{
-    animation: wobble 3s ease-in-out infinite alternate
-}
-@keyframes wobble {
-    0%{transform:translate(-150 px)}
-    100%{transform:translate(150 px)}
-}
 a {
     color:rgb(63, 4, 4);
 }
